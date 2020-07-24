@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">SharedPreferences_class</string>
+    <string name="action_settings">Settings</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+
+    <string name="save">Guardar</string>
+    <string name="delete">Borrar</string>
+    <string name="input_decimal">Ingresa un Número Decimal</string>
+    <string name="input_string">Ingresa un Texto</string>
+    <string name="input_int">Ingresa un número Entero</string>
+    <string name="int_value">Valor entero almacenado : %1$d</string>
+    <string name="text_value">Texto almacenado : %1$s</string>
+    <string name="decimal_value">Valor decimal Almacenado: %1$f</string>
+
+</resources>
